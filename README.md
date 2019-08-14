@@ -1,6 +1,6 @@
 # express-js
 
-travesy media
+traversy media
 
 
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
